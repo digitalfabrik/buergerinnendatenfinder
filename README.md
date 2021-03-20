@@ -7,3 +7,5 @@ Folgende weitere Funktionen wären leicht einzubauen:
 * Jedem Hash einen weiteren zufälligen Wert (Salt) hinzufügen, um Hashes vor Brute Force Angriffen zu sichern. Dabei könnte es sich um einen Code handeln, den nur die Bürger:in speichert, und der nur für solche Anfragen temporär verarbeitet werden darf.
 * Umstellung des Hashes auf Argon2id mit hohen Rechenzeiten.
 * Bei jeder Suchanfrage eine Begründung abfragen und protokolliern.
+* Schnittstellen für Fachanwendungen zum automatischen Befüllen der Datenbank.
+* Dynamische Datentypen, so dass nicht nur Telefonnummer und E-Mail-Adresse zur Verfügung stehen.
